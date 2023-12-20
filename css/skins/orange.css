@@ -1,0 +1,28 @@
+.madi .logo a::before{
+    border-top: 4px solid #fa5b0f;
+    border-left: 4px solid #fa5b0f;
+}
+.madi .logo a::after{
+    border-right: 4px solid #fa5b0f;
+    border-bottom: 4px solid #fa5b0f;
+}
+.contact .contact-info-item .icon .fa,
+.about .about-content .about-text h3 span,
+body.dark .madi .nav li a:hover,
+body.dark .madi .nav li a.active,
+.madi .nav li a:hover,
+.madi .nav li a.active {
+    color: #fa5b0f;
+}
+.about .about-content .timeline .circle-dot,
+.about .about-content .timeline .timeline-item::before,
+.about .about-content .skills .skill-item .progress .progress-in,
+.btn,
+.section-title h2::before,
+.section-title h2::after,
+.madi .nav-toggler span,
+.madi .nav-toggler span::before,
+.madi .nav-toggler span::after,
+.home .intro .social-links a{
+    background-color: #fa5b0f;
+}
